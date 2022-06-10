@@ -5,4 +5,6 @@ authors: [ Denis, Altintas ]
 description: Dieses Plugin lässt dich fliegen!
 commands:
   fly:
-    description: Dieses Plugin lässt dich fliegen!
+    description: Dieser Befehl laesst dich fliegen!
+  flyspeed:
+    description: Dieser Befehl beeinflusst deine Fluggeschwindigkeit!
