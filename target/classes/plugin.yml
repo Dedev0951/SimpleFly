@@ -1,8 +1,0 @@
-name: Flyplugin
-version: '1.0'
-main: de.denis.flyplugin.Flyplugin
-authors: [ Denis, Altintas ]
-description: Dieses Plugin lässt dich fliegen!
-commands:
-  fly:
-    description: Dieses Plugin lässt dich fliegen!
